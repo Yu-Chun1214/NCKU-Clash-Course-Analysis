@@ -1,0 +1,3466 @@
+[
+    {
+        "Name": "藝術史與藝術批評",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[1]"
+        },
+        "Time_re": {
+            "[1]": "5~6"
+        }
+    },
+    {
+        "Name": "宗教哲學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "文本與歷史",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "博物館學導論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[1]"
+        },
+        "Time_re": {
+            "[1]": "5~6"
+        }
+    },
+    {
+        "Name": "倫理學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "進階華語課程－華人宗教與文化",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "批判思考:當代文學理論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "生物多樣性",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "生物技術概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "食品安全與衛生",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[1]"
+        },
+        "Time_re": {
+            "[1]": "5~6"
+        }
+    },
+    {
+        "Name": "疾病媒介",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "兒童青少年的健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "身體結構與功能",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "肌膚的照護",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "心血管生理病理學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "情緒與壓力管理",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "與婦產科醫師的對話",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "醫學與健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[1]"
+        },
+        "Time_re": {
+            "[1]": "5~6"
+        }
+    },
+    {
+        "Name": "食品營養與健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                2,
+                3
+            ]
+        },
+        "Time_str": {
+            "2~3": "[1]"
+        },
+        "Time_re": {
+            "[1]": "2~3"
+        }
+    },
+    {
+        "Name": "應用化學與實驗",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "電腦入門與應用",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "火",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "材料科技概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "全球暖化與極端氣候事件",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "從法律觀點看社會議題",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "醫療與文化",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[1]"
+        },
+        "Time_re": {
+            "[1]": "5~6"
+        }
+    },
+    {
+        "Name": "旅行地質學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "從創意發明到專利保護",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[1]"
+        },
+        "Time_re": {
+            "[1]": "7~8"
+        }
+    },
+    {
+        "Name": "三創與設計思維",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[1]"
+        },
+        "Time_re": {
+            "[1]": "3~4"
+        }
+    },
+    {
+        "Name": "先秦兩漢儒家思想",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "中國文學導論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[2]"
+        },
+        "Time_re": {
+            "[2]": "3~4"
+        }
+    },
+    {
+        "Name": "考古發現與歷史新貌",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "口述歷史",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "近代世界的形成(16至20世紀)",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[2]"
+        },
+        "Time_re": {
+            "[2]": "3~4"
+        }
+    },
+    {
+        "Name": "音樂文化導引",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[2]"
+        },
+        "Time_re": {
+            "[2]": "3~4"
+        }
+    },
+    {
+        "Name": "基督思想",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "實用中文及寫作",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[2]"
+        },
+        "Time_re": {
+            "[2]": "1~2"
+        }
+    },
+    {
+        "Name": "哲學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[2]"
+        },
+        "Time_re": {
+            "[2]": "3~4"
+        }
+    },
+    {
+        "Name": "倫理學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "音樂舞蹈戲劇",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[2]"
+        },
+        "Time_re": {
+            "[2]": "3~4"
+        }
+    },
+    {
+        "Name": "音樂舞蹈戲劇",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "傳統中國婦女與政治",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "講台語看英語認捌語言的故事",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "心理學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "應用統計",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "家庭關係",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "社會與電影",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[2]"
+        },
+        "Time_re": {
+            "[2]": "3~4"
+        }
+    },
+    {
+        "Name": "政經時事的公民思辨",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "電影、小說與社會",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "正義思辨",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "原住民當代議題與社會實踐",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 1,
+        "Time": {
+            "[2]": [
+                6
+            ]
+        },
+        "Time_str": {
+            "6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "6"
+        }
+    },
+    {
+        "Name": "檢驗醫學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "動物寄生蟲與生活",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "物理治療與健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "運動傷害防護概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "職能治療與健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "中醫食療",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "從醫學看健康生活",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "職業健康促進",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "應用物理與實驗",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[2]"
+        },
+        "Time_re": {
+            "[2]": "7~8"
+        }
+    },
+    {
+        "Name": "光電科技導論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "工程概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "界面化學的生活應用",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "建築與抗震",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "環境污染與防治",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "應用電學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[2]"
+        },
+        "Time_re": {
+            "[2]": "7~8"
+        }
+    },
+    {
+        "Name": "認識地震",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[2]"
+        },
+        "Time_re": {
+            "[2]": "7~8"
+        }
+    },
+    {
+        "Name": "文學與環境",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "社會實踐與社會企業",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[2]"
+        },
+        "Time_re": {
+            "[2]": "7~8"
+        }
+    },
+    {
+        "Name": "西拉雅語文數位復育及線上教育",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "三創與設計思維",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[2]"
+        },
+        "Time_re": {
+            "[2]": "3~4"
+        }
+    },
+    {
+        "Name": "防災科技管理概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[2]"
+        },
+        "Time_re": {
+            "[2]": "7~8"
+        }
+    },
+    {
+        "Name": "倫理與組織行為",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "環境政策",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[2]"
+        },
+        "Time_re": {
+            "[2]": "7~8"
+        }
+    },
+    {
+        "Name": "探索科學圖像",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "智慧健康生活概論",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 1,
+        "Time": {
+            "[2]": [
+                6
+            ]
+        },
+        "Time_str": {
+            "6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "6"
+        }
+    },
+    {
+        "Name": "先秦兩漢儒家思想",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "女性文學選讀",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "古蹟與文化",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "人、動物與倫理",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "愛爾蘭歷史與文化",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "戲劇賞析",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "台灣傳統戲曲賞析",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[3]"
+        },
+        "Time_re": {
+            "[3]": "5~6"
+        }
+    },
+    {
+        "Name": "藝術叩門",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[3]"
+        },
+        "Time_re": {
+            "[3]": "7~8"
+        }
+    },
+    {
+        "Name": "西方古典音樂",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "西方古典音樂",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[3]"
+        },
+        "Time_re": {
+            "[3]": "5~6"
+        }
+    },
+    {
+        "Name": "性別與社會",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[3]"
+        },
+        "Time_re": {
+            "[3]": "5~6"
+        }
+    },
+    {
+        "Name": "哲學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "以專業華語談老化與倫理",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[2]"
+        },
+        "Time_re": {
+            "[2]": "5~6"
+        }
+    },
+    {
+        "Name": "心理學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "無障礙生活與環境",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "統計的世界",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "醫學生物技術概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "口腔疾病與保健",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "認識基因",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "健康促進",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "天文學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "工程概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "WWW網頁設計",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "環境污染與防治",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[3]"
+        },
+        "Time_re": {
+            "[3]": "1~2"
+        }
+    },
+    {
+        "Name": "科技與國防",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[3]"
+        },
+        "Time_re": {
+            "[3]": "1~2"
+        }
+    },
+    {
+        "Name": "科技與國防",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "運動與科學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "影像編修入門",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[3]"
+        },
+        "Time_re": {
+            "[3]": "5~6"
+        }
+    },
+    {
+        "Name": "R語言入門",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[3]"
+        },
+        "Time_re": {
+            "[3]": "7~8"
+        }
+    },
+    {
+        "Name": "科學傳播概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[3]"
+        },
+        "Time_re": {
+            "[3]": "7~8"
+        }
+    },
+    {
+        "Name": "航空科技與文化",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "決策藝術",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "資訊倫理議題省思",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "整合醫療實證科學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "環境,職業與健康人生",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "民族學觀點的東南亞建築民居文化",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "成功學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "智慧綠生活",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "生態、倫理與在地實踐",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[3]"
+        },
+        "Time_re": {
+            "[3]": "7~8"
+        }
+    },
+    {
+        "Name": "創新設計",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[3]"
+        },
+        "Time_re": {
+            "[3]": "3~4"
+        }
+    },
+    {
+        "Name": "先秦兩漢儒家思想",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "女性文學選讀",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "臺灣古典文學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "法政哲學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[4]"
+        },
+        "Time_re": {
+            "[4]": "7~8"
+        }
+    },
+    {
+        "Name": "中國哲學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "英文短篇故事賞析",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "性別關係",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "解碼台灣當代電影",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "流行樂賞析與實務",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "戲劇與電影",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "戲劇與小說",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[4]"
+        },
+        "Time_re": {
+            "[4]": "7~8"
+        }
+    },
+    {
+        "Name": "劇場表演與創意",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "客家文化導論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "心理學",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "生涯發展",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "政治學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "法學緒論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                8,
+                9
+            ]
+        },
+        "Time_str": {
+            "8~9": "[4]"
+        },
+        "Time_re": {
+            "[4]": "8~9"
+        }
+    },
+    {
+        "Name": "生涯規劃－張有德精英論壇",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "基因密碼",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "急難救助",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "水產養殖與健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "運動與健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "中藥與健康",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "應用化學與實驗",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "校園文化資產",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[4]"
+        },
+        "Time_re": {
+            "[4]": "7~8"
+        }
+    },
+    {
+        "Name": "日常生活中的微生物",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[4]"
+        },
+        "Time_re": {
+            "[4]": "3~4"
+        }
+    },
+    {
+        "Name": "當代全球健康議題",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "生技研發成果商品化導論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~6"
+        }
+    },
+    {
+        "Name": "美學藝術生活實踐",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 1,
+        "Time": {
+            "[4]": [
+                4.5
+            ]
+        },
+        "Time_str": {
+            "N": "[4]"
+        },
+        "Time_re": {
+            "[4]": "N"
+        }
+    },
+    {
+        "Name": "戲劇製作",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[5]"
+        },
+        "Time_re": {
+            "[5]": "7~8"
+        }
+    },
+    {
+        "Name": "藝術史與藝術批評",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[5]"
+        },
+        "Time_re": {
+            "[5]": "5~6"
+        }
+    },
+    {
+        "Name": "日本歷史與人物",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[5]"
+        },
+        "Time_re": {
+            "[5]": "3~4"
+        }
+    },
+    {
+        "Name": "台語文學與藝術",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[5]"
+        },
+        "Time_re": {
+            "[5]": "3~4"
+        }
+    },
+    {
+        "Name": "歷史：過去與現在的對話",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[5]"
+        },
+        "Time_re": {
+            "[5]": "7~8"
+        }
+    },
+    {
+        "Name": "研究計畫寫作與口語表達",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[5]"
+        },
+        "Time_re": {
+            "[5]": "1~2"
+        }
+    },
+    {
+        "Name": "佛教思想與現代社會",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[5]"
+        },
+        "Time_re": {
+            "[5]": "1~2"
+        }
+    },
+    {
+        "Name": "法學緒論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[5]"
+        },
+        "Time_re": {
+            "[5]": "1~2"
+        }
+    },
+    {
+        "Name": "經濟學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[5]"
+        },
+        "Time_re": {
+            "[5]": "1~2"
+        }
+    },
+    {
+        "Name": "經濟學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[5]"
+        },
+        "Time_re": {
+            "[5]": "3~4"
+        }
+    },
+    {
+        "Name": "經濟學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[5]"
+        },
+        "Time_re": {
+            "[5]": "5~6"
+        }
+    },
+    {
+        "Name": "工程師的職涯探索",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 1,
+        "Time": {
+            "[5]": [
+                6
+            ]
+        },
+        "Time_str": {
+            "6": "[5]"
+        },
+        "Time_re": {
+            "[5]": "6"
+        }
+    },
+    {
+        "Name": "生命科學概論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[5]"
+        },
+        "Time_re": {
+            "[5]": "5~6"
+        }
+    },
+    {
+        "Name": "音樂美術與都巿文化",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[5]"
+        },
+        "Time_re": {
+            "[5]": "7~8"
+        }
+    },
+    {
+        "Name": "生醫用工程學導論",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[5]"
+        },
+        "Time_re": {
+            "[5]": "3~4"
+        }
+    },
+    {
+        "Name": "科學的邏輯－以生物學為例",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        },
+        "Time_str": {
+            "5~6": "[5]"
+        },
+        "Time_re": {
+            "[5]": "5~6"
+        }
+    },
+    {
+        "Name": "國際服務產業趨勢與發展",
+        "Necessary": true,
+        "Credits": 3.0,
+        "Hours": 3,
+        "Time": {
+            "[5]": [
+                5,
+                6,
+                7
+            ]
+        },
+        "Time_str": {
+            "5~7": "[5]"
+        },
+        "Time_re": {
+            "[5]": "5~7"
+        }
+    },
+    {
+        "Name": "無障礙智慧生活環境",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[5]"
+        },
+        "Time_re": {
+            "[5]": "3~4"
+        }
+    },
+    {
+        "Name": "科技與生命價值",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                1,
+                2
+            ]
+        },
+        "Time_str": {
+            "1~2": "[5]"
+        },
+        "Time_re": {
+            "[5]": "1~2"
+        }
+    },
+    {
+        "Name": "通識領袖論壇",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[2]"
+        },
+        "Time_re": {
+            "[2]": "7~8"
+        }
+    },
+    {
+        "Name": "日常疼痛控制",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "通識教育生活實踐（一）",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "通識教育生活實踐（二）",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "通識教育生活實踐（三）",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "通識教育生活實踐（一）",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "通識教育生活實踐（甲）",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "通識教育生活實踐（乙）",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "通識教育生活實踐（丙）",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "臺灣綜合大學通識巡迴講座-環境生態保育",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                7,
+                8
+            ]
+        },
+        "Time_str": {
+            "7~8": "[4]"
+        },
+        "Time_re": {
+            "[4]": "7~8"
+        }
+    },
+    {
+        "Name": "通識專題講座-大學導航",
+        "Necessary": true,
+        "Credits": 2.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        },
+        "Time_str": {
+            "3~4": "[5]"
+        },
+        "Time_re": {
+            "[5]": "3~4"
+        }
+    },
+    {
+        "Name": "踏溯台南",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "踏溯台南",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "表演藝術綜合實作",
+        "Necessary": true,
+        "Credits": 4.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "表演藝術綜合實作",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "設計藝術綜合實作",
+        "Necessary": true,
+        "Credits": 4.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "設計藝術綜合實作",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "視覺藝術綜合實作",
+        "Necessary": true,
+        "Credits": 4.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "視覺藝術綜合實作",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "拍出跨域資訊應用首部曲--python",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "程式城市：ｕｎｉｔｙ遊戲程式設計",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "從西方哲學經典看當代議題",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "從東方哲學經典看當代議題",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "流行音樂理論概論(音樂劇課群)",
+        "Necessary": true,
+        "Credits": 0.5,
+        "Hours": 3,
+        "Time": {
+            "[4]": [
+                5,
+                6,
+                7
+            ]
+        },
+        "Time_str": {
+            "5~7": "[4]"
+        },
+        "Time_re": {
+            "[4]": "5~7"
+        }
+    },
+    {
+        "Name": "流行音樂理論的文化視野(音樂劇課群)",
+        "Necessary": true,
+        "Credits": 0.5,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "流行音樂的書面詞類(音樂劇課群)",
+        "Necessary": true,
+        "Credits": 0.5,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "解析音樂基本句型(音樂劇課群)",
+        "Necessary": true,
+        "Credits": 0.5,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "歌詞與曲調解析與實務(音樂劇課群)",
+        "Necessary": true,
+        "Credits": 0.5,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "音樂劇曲本賞析(音樂劇課群)",
+        "Necessary": true,
+        "Credits": 0.5,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    },
+    {
+        "Name": "與心靈及土地的對話－馬雅各之路",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 0,
+        "Time": {
+            "未定": [
+                0
+            ]
+        },
+        "Time_str": {
+            "": "未定"
+        },
+        "Time_re": {
+            "未定": ""
+        }
+    }
+]

@@ -1,0 +1,1226 @@
+[
+    {
+        "Name": "直排輪（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "自由車（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "自由車（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "足球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "軟網（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "硬網（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "硬網（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "硬網（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "韻律（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "水中有氧（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "太極拳（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "太極拳（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "Name": "游泳（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "國術（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "國際標準舞（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "瑜伽（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "防身術（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "瑜伽（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "排球（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "健訓（男、女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "有氧舞蹈（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "有氧舞蹈（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "高爾夫（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "健康有氧（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "健康有氧（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "籃球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "籃球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "排球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "拳擊有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "拳擊有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "體適能運動（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "體適能運動（女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "適應體適能",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "直排輪（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "自由車（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "自由車（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "足球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "足球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "足球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "太極拳（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "太極拳（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "Name": "游泳（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "游泳（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "游泳（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "桌球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "國術（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "國術（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "國際標準舞（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "瑜伽（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "防身術（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "健訓（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "健訓（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "健訓（男、女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "有氧舞蹈（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "有氧舞蹈（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "高爾夫（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "壘球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "壘球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "壘球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "壘球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "壘球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "飛輪有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "籃球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "籃球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "籃球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "籃球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "籃球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                9,
+                10
+            ]
+        }
+    },
+    {
+        "Name": "排球（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "排球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[1]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "排球（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "硬網（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[2]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "硬網（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "拳擊有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "拳擊有氧（男女）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "體適能運動（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "體適能運動（男）",
+        "Necessary": true,
+        "Credits": 0.0,
+        "Hours": 2,
+        "Time": {
+            "[4]": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "Name": "羽球（男、女）",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 2,
+        "Time": {
+            "[5]": [
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "Name": "硬網（男、女）",
+        "Necessary": true,
+        "Credits": 1.0,
+        "Hours": 2,
+        "Time": {
+            "[3]": [
+                9,
+                10
+            ]
+        }
+    }
+]
