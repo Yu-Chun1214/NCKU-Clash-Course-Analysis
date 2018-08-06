@@ -1,5 +1,8 @@
 # NCKU-Clash-Course-Analysis
-#成功大學大學部一到三年級各系必修學分與通識課程和體育課程的撞課分析
+成功大學大學部一到三年級各系必修學分與通識課程和體育課程的撞課分析
+
+
+Please Open NCKU-Clash-Course-Analysis.pdf
 
 
 python version:3.6.6
